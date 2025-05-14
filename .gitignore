@@ -1,0 +1,12 @@
+/vendor/
+composer.phar
+composer.lock
+
+# PHPUnit
+/.phpunit.result.cache
+/phpunit.xml.dist
+
+
+# Application specific
+/var/*
+!/var/.gitkeep
